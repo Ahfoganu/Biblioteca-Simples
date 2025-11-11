@@ -22,7 +22,7 @@ O sistema utiliza arquivos CSV para armazenar informações sobre livros alugado
 
 1. Clone este repositório para sua máquina:
 
-   git clone https://github.com/Ahfoganu/Biblioteca-Simples-
+   git clone https://github.com/Ahfoganu/Biblioteca-Simples
 
 2. Navegue até o diretório do projeto:
 
